@@ -9,8 +9,8 @@ const Skill = () => {
 			<div className="font-yusei-magic padding-15">
 				<div className="topic font-larger">Skills</div>
 				{
-					skills.map(skill => (
-						<Fragment>
+					skills.map((skill, index) => (
+						<Fragment key={index}>
 							<div className="font-large">{skill.type}</div>
 							<div className="font-smaller skill-item">
 								- {skill.items.join(', ')}

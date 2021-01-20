@@ -14,7 +14,6 @@ const useStyles = makeStyles((theme) => ({
 		height: '100%',
 		backgroundColor: 'rgba(255, 255, 255, 0.6)',
 		padding: 20,
-		paddingTop: 30,
 		textAlign: 'right',
 		fontWeight: 'bold'
 	},

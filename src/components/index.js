@@ -5,3 +5,5 @@ export { default as Info } from './Info';
 export { default as Skill } from './Skill';
 export { default as Contact } from './Contact';
 export { default as PhotoSlide } from './PhotoSlide';
+export { default as Project } from './Project';
+export { default as Pagination } from './Pagination';
