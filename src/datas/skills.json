@@ -1,0 +1,34 @@
+[
+	{
+		"type": "Languages",
+		"items": [ "JavaScript", "PHP, Python", "C", "C++", "C#", "Java", "SQL", "VBA" ]
+	},
+	{
+		"type": "Front-end",
+		"items": [ "ReactJS", "Redux", "CSS" ]
+	},
+	{
+		"type": "Back-end",
+		"items": [ "Node.js (Express) ", "GraphQL", "Socket.io" ]
+	},
+	{
+		"type": "Databases",
+		"items": [ "MySQL", "MongoDB", "Redis", "Firebase" ]
+	},
+	{
+		"type": "Dev-Ops",
+		"items": [ "Docker", "GitHub Actions", "GCP" ]
+	},
+	{
+		"type": "Testing",
+		"items": [ "Jest", "Puppeteer" ]
+	},
+	{
+		"type": "Operating System",
+		"items": [ "Linux" ]
+	},
+	{
+		"type": "Others",
+		"items": [ "Git", "Webpack", "SSH" ]
+	}
+]

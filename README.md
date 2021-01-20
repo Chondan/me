@@ -2,6 +2,10 @@
 
 Designs -> https://docs.google.com/presentation/d/1MNfYrSP2XXe2xa9TeGeYwlW-ItgRVH1z_x6TlfhyTu8/edit#slide=id.p
 
+fonts -> https://fonts.google.com/
+
+get repos -> https://api.github.com/users/Chondan/repos
+
 Components
 - Gallery (Animation Slide)
 - Profile's Image
@@ -33,6 +37,6 @@ Datas
 	- little information
 
 ## Checklists
-- [ ] Profile
-- [ ] FlipCard
+- [x] Profile
+- [x] FlipCard
 - [ ] Project Gallery
