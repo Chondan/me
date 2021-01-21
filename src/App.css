@@ -21,6 +21,10 @@ hr {
     margin: auto;
 }
 
+.email {
+    color: #20639B;
+}
+
 /* FLIP CARD */
 .flip-card {
     position: relative;
@@ -37,6 +41,18 @@ hr {
 .flip-card.flip {
     --rotate-y: 180deg;
 }
+.flip-card .back {
+    transform: rotateY(180deg);
+    background-color: #fff;
+    border-radius: 0.25rem;
+    overflow-y: auto;
+    padding: 0;
+}
+.flip-card .front {
+    overflow-y: auto !important;
+    padding: 0;
+    border-radius: 0.25rem;
+}
 .flip-card .front,
 .flip-card .back {
     position: absolute;
@@ -44,18 +60,7 @@ hr {
     backface-visibility: hidden;
     width: 100%;
     height: 100%;
-}
-.flip-card .back {
-    transform: rotateY(180deg);
-    background-color: #fff;
-    border-radius: 0.25rem;
-    overflow: auto;
-    padding: 0;
-}
-.flip-card .front {
-    overflow: auto;
-    padding: 0;
-    border-radius: 0.25rem;
+    overflow-y: auto;
 }
 
 /* FONT */
@@ -100,24 +105,26 @@ hr {
     color: #20639B;
 }
 
-body::-webkit-scrollbar-track
-{
-    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
-    border-radius: 10px;
-    background-color: #F5F5F5;
+/* PAGINATION */
+.pagination {
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0 0 5px 2px rgba(0, 0, 0, 0.05);
 }
-
-body::-webkit-scrollbar
-{
-    width: 12px;
-    background-color: #F5F5F5;
+.page-item {
+    /*background-color: #f67e7d !important;*/
 }
-
-body::-webkit-scrollbar-thumb
-{
-    border-radius: 10px;
-    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,.3);
-    background-color: #555;
+.page-link {
+    color: black !important;
+    border: none !important;
+    font-family: 'Josefin Sans', sans-serif !important;
+    margin: 0px !important;
+}
+.page-link:hover {
+    /*background-color: rgba(0, 0, 0, 0.1) !important;*/
+}
+.active {
+    border-radius: 0.25rem !important;
 }
 
 /* GALLERY SLIDER */

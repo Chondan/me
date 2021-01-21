@@ -12,8 +12,9 @@ const useStyles = makeStyles((theme) => ({
 		transition: 'all 0.3s ease',
 		cursor: 'pointer',
 		'&:hover': {
-			boxShadow: '0 0 5px 2px rgba(0, 0, 0, 0.3)'
-		}
+			boxShadow: '0 0 5px 2px rgba(0, 0, 0, 0.3)',
+			transform: 'translateY(-10px)'
+		},
 	},
 	label: {
 		backgroundColor: 'grey',
@@ -22,7 +23,10 @@ const useStyles = makeStyles((theme) => ({
 		textAlign: 'right',
 		fontWeight: 'bold',
 		borderRadius: '0.25rem 0.25rem 0 0',
-		cursor: 'default'
+		cursor: 'default',
+		'&:hover ': {
+			textDecoration: 'underline',
+		}
 	}
 }))
 
@@ -58,16 +62,16 @@ const Project = ({
 
 	const handleLabelClick = e => {
 		e.stopPropagation();
+		window.open(linkToGithub || 'https://github.com/Chondan');
 	}
-
 
 	return (
 		<Fragment>
 			<div className={classnames(classes.project, 'card')} ref={projectRef} 
 				style={{ height: width, backgroundImage: `url(${pic.default})` }} 
-				onClick={handleProjectClick}
+				onClick={handleProjectClick} title={projectName}
 			>	
-				<div className={classes.label} onClick={handleLabelClick}>{projectName} <CodeIcon /></div>
+				<div className={classes.label} onClick={handleLabelClick} title="Source Code">{projectName} <CodeIcon /></div>
 			</div>	
 		</Fragment>
 	);

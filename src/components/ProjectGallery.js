@@ -16,7 +16,8 @@ const useStyles = makeStyles((theme) => ({
 		justifyContent: 'center',
 		alignContent: 'center',
 		position: 'relative',
-		gridGap: '10px 10px'
+		gridGap: '10px 10px',
+		borderRadius: '0.25rem'
 	},
 	pagination: {
 		position: 'absolute',
@@ -53,7 +54,7 @@ const ProjectGallery = () => {
 		const setup = () => {
 			setHeight();
 			setWidth();
-			setCurrentPage(1);
+			// setCurrentPage(1);
 		}
 		setup();
 		window.addEventListener('resize', setup);

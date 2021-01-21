@@ -13,9 +13,10 @@ const useStyles = makeStyles((theme) => ({
 		width: '100%',
 		height: '100%',
 		backgroundColor: 'rgba(255, 255, 255, 0.6)',
-		padding: 20,
+		padding: 15,
 		textAlign: 'right',
-		fontWeight: 'bold'
+		fontWeight: 'bold',
+		overflowY: 'auto'
 	},
 }));
 
@@ -28,9 +29,9 @@ const Contact = ({
 	return (
 		<div className={classnames(classes.contact, 'font-yusei-magic')} style={{ transform: `scale(${show ? 1 : 0})`}}>
 			<div style={{ fontSize: 'xx-large' }}>Chondan Susuwan</div>
-			<div className="font-larger">Birthday</div><div>27/01/1998</div>
-			<div className="font-larger">Phone</div><div>085-343-8104</div>
-			<div className="font-larger">Email</div><a href="mailto:chondansusuwan@outlook.com">chondansusuwan@outlook.com</a>
+			<div>Birthday</div><div className="font-larger">27/01/1998</div>
+			<div>Phone</div><div className="font-larger">085-343-8104</div>
+			<div>Email</div><a href="mailto:chondansusuwan@outlook.com" className="font-larger email">chondansusuwan@outlook.com</a>
 		</div>
 	);
 }

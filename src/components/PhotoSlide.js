@@ -2,9 +2,9 @@ import React from 'react';
 
 // Images
 import img1 from '../assets/screenshots/pic1.jpg';
-import img2 from '../assets/screenshots/pic2.jpeg';
+import img2 from '../assets/screenshots/pic2.jpg';
 import img3 from '../assets/screenshots/pic3.jpg';
-import img4 from '../assets/screenshots/pic4.jpeg';
+import img4 from '../assets/screenshots/pic4.jpg';
 
 // Material UI 
 import { makeStyles } from '@material-ui/core/styles';

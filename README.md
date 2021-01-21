@@ -6,6 +6,12 @@ fonts -> https://fonts.google.com/
 
 get repos -> https://api.github.com/users/Chondan/repos
 
+resize imgae -> https://ezgif.com/resize/ezgif-2-c0f081824d11.gif
+
+improve loading speed -> https://codeburst.io/5-steps-to-speed-up-your-image-heavy-website-65c874a86966
+
+lazy loading image -> https://levelup.gitconnected.com/lazy-loading-images-in-react-for-better-performance-5df73654ea05
+
 Components
 - Gallery (Animation Slide)
 - Profile's Image
@@ -39,4 +45,9 @@ Datas
 ## Checklists
 - [x] Profile
 - [x] FlipCard
-- [ ] Project Gallery
+- [x] Project Gallery
+
+## Feeback
+- [ ] Music Player
+- [ ] UI (User friendly)
+- [ ] Overflow problem on safari

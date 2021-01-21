@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 
 // Images
-import profileIcon from '../assets/screenshots/profile.jpg';
+import profileIcon from '../assets/screenshots/profile1.png';
 
 // Material UI 
 import { makeStyles } from '@material-ui/core/styles';
