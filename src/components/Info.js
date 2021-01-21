@@ -4,6 +4,7 @@ const Info = () => {
 	return (
 		<Fragment>
 			<div className="font-yusei-magic padding-15">
+				<div className="instruction">{'Click anywhere to see my skills'}</div>
 				<div className="topic font-larger">Education</div>
 				<Fragment>
 					<div className="font-large">Bachelor of Engineering - Chulalongkorn University, Bangkok, Thailand.</div>

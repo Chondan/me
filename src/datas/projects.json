@@ -1,15 +1,21 @@
 [
 	{
-		"projectID": "16",
-		"projectName": "1on1-chat-application",
-		"linkToWeb": null,
-		"linkToGithub": "https://github.com/Chondan/1on1-chat-application"
+		"projectID": "1",
+		"projectName": "Social Media",
+		"linkToWeb": "https://social-media-app-a3e4f.web.app/",
+		"linkToGithub": "https://github.com/Chondan/Social-App-Frontend"
 	},
 	{
 		"projectID": "2",
 		"projectName": "Shooting Game",
 		"linkToWeb": "https://chondan.github.io/Shooting-Game",
 		"linkToGithub": "https://github.com/Chondan/Shooting-Game"
+	},
+	{
+		"projectID": "25",
+		"projectName": "1on1-chat-application",
+		"linkToWeb": null,
+		"linkToGithub": "https://github.com/Chondan/1on1-chat-application"
 	},
 	{
 		"projectID": "3",
@@ -136,5 +142,11 @@
 		"projectName": "Full Responsive Web",
 		"linkToWeb": "https://chondan.github.io/Fully-Responsive-Website",
 		"linkToGithub": "https://github.com/Chondan/Fully-Responsive-Website"
+	},
+	{
+		"projectID": "24",
+		"projectName": "Pagination",
+		"linkToWeb": "https://chondan.github.io/Pagination-React",
+		"linkToGithub": "https://github.com/Chondan/Pagination-React"
 	}
 ]

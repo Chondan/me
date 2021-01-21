@@ -25,6 +25,12 @@ hr {
     color: #20639B;
 }
 
+.instruction {
+    font-size: smaller;
+    color: black;
+    font-size: bold;
+}
+
 /* FLIP CARD */
 .flip-card {
     position: relative;

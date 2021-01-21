@@ -42,6 +42,12 @@ Datas
 	- link to webapp
 	- little information
 
+## Projects
+- 1on1 chat application
+- social media app
+- pagination
+- 
+
 ## Checklists
 - [x] Profile
 - [x] FlipCard
