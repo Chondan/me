@@ -8,7 +8,7 @@
 	{
 		"projectID": "2",
 		"projectName": "Shooting Game",
-		"linkToWeb": "https://chondan.github.io/Shooting-Game",
+		"linkToWeb": "https://chondan.github.io/shooting-game",
 		"linkToGithub": "https://github.com/Chondan/Shooting-Game"
 	},
 	{
@@ -20,133 +20,133 @@
 	{
 		"projectID": "3",
 		"projectName": "Countdown",
-		"linkToWeb": "https://chondan.github.io/Countdown",
+		"linkToWeb": "https://chondan.github.io/countdown",
 		"linkToGithub": "https://github.com/Chondan/Countdown"
 	},
 	{
 		"projectID": "4",
 		"projectName": "Shopping Cart",
-		"linkToWeb": "https://chondan.github.io/Redux-Shopping-Cart",
+		"linkToWeb": "https://chondan.github.io/redux-shopping-cart",
 		"linkToGithub": "https://github.com/Chondan/Redux-Shopping-Cart"
 	},
 	{
 		"projectID": "5",
 		"projectName": "Youtube Clone",
-		"linkToWeb": "https://chondan.github.io/Youtube-Clone",
-		"linkToGithub": "https://github.com/Chondan/Youtube-Clone"
+		"linkToWeb": "https://chondan.github.io/youtube-ui-clone",
+		"linkToGithub": "https://github.com/Chondan/youtube-ui-clone"
 	},
 	{
 		"projectID": "6",
 		"projectName": "Covid19 Tracking",
-		"linkToWeb": "https://chondan.github.io/Covid19-Tracking",
-		"linkToGithub": "https://github.com/Chondan/Covid19-Tracking"
+		"linkToWeb": "https://chondan.github.io/covid19-tracking",
+		"linkToGithub": "https://github.com/Chondan/covid19-tracking"
 	},
 	{
 		"projectID": "7",
 		"projectName": "Flashcard Quiz",
-		"linkToWeb": "https://chondan.github.io/Flashcard-Quiz",
-		"linkToGithub": "https://github.com/Chondan/Flashcard-Quiz"
+		"linkToWeb": "https://chondan.github.io/flashcard-quiz",
+		"linkToGithub": "https://github.com/Chondan/flashcard-quiz"
 	},
 	{
 		"projectID": "8",
 		"projectName": "Dropdown Menu",
-		"linkToWeb": "https://chondan.github.io/Advanced-Dropdown-Menu",
-		"linkToGithub": "https://github.com/Chondan/Advanced-Dropdown-Menu"
+		"linkToWeb": "https://chondan.github.io/advanced-dropdown-menu",
+		"linkToGithub": "https://github.com/Chondan/advanced-dropdown-menu"
 	},
 	{
 		"projectID": "9",
 		"projectName": "Infinite Scroll Gallery",
-		"linkToWeb": "https://chondan.github.io/Infinite-Scroll-Gallery",
-		"linkToGithub": "https://github.com/Chondan/Infinite-Scroll-Gallery"
+		"linkToWeb": "https://chondan.github.io/infinite-scroll-gallery",
+		"linkToGithub": "https://github.com/Chondan/infinite-scroll-gallery"
 	},
 	{
 		"projectID": "10",
 		"projectName": "Form Validation",
-		"linkToWeb": "https://chondan.github.io/Form-Validation",
-		"linkToGithub": "https://github.com/Chondan/Form-Validation"
+		"linkToWeb": "https://chondan.github.io/form-validation",
+		"linkToGithub": "https://github.com/Chondan/form-validation"
 	},
 	{
 		"projectID": "11",
 		"projectName": "Music Player",
-		"linkToWeb": "https://chondan.github.io/Music-Player",
-		"linkToGithub": "https://github.com/Chondan/Music-Player"
+		"linkToWeb": "https://chondan.github.io/music-player",
+		"linkToGithub": "https://github.com/Chondan/music-player"
 	},
 	{
 		"projectID": "12",
 		"projectName": "Air Quality Visualiser",
-		"linkToWeb": "https://chondan.github.io/Air-Quality-Visualiser",
-		"linkToGithub": "https://github.com/Chondan/Air-Quality-Visualiser"
+		"linkToWeb": "https://chondan.github.io/air-quality-visualiser",
+		"linkToGithub": "https://github.com/Chondan/air-quality-visualiser"
 	},
 	{
 		"projectID": "13",
 		"projectName": "Todo Lists",
-		"linkToWeb": "https://chondan.github.io/Todo-Lists",
-		"linkToGithub": "https://github.com/Chondan/Todo-Lists"
+		"linkToWeb": "https://chondan.github.io/todo-list",
+		"linkToGithub": "https://github.com/Chondan/todo-list"
 	},
 	{
 		"projectID": "14",
 		"projectName": "Duck Hunt",
-		"linkToWeb": "https://chondan.github.io/Duck-Hunt",
-		"linkToGithub": "https://github.com/Chondan/Duck-Hunt"
+		"linkToWeb": "https://chondan.github.io/duck-hunt",
+		"linkToGithub": "https://github.com/Chondan/duck-hunt"
 	},
 	{
 		"projectID": "15",
 		"projectName": "Tic Tac Toe",
-		"linkToWeb": "https://chondan.github.io/Tic-Tac-Toe-ReactJS",
-		"linkToGithub": "https://github.com/Chondan/Tic-Tac-Toe-ReactJS"
+		"linkToWeb": "https://chondan.github.io/tic-tac-toe",
+		"linkToGithub": "https://github.com/Chondan/tic-tac-toe"
 	},
 	{
 		"projectID": "16",
 		"projectName": "Snake Game",
-		"linkToWeb": "https://chondan.github.io/Snake-Game",
-		"linkToGithub": "https://github.com/Chondan/Snake-Game"
+		"linkToWeb": "https://chondan.github.io/snake-game",
+		"linkToGithub": "https://github.com/Chondan/snake-game"
 	},
 	{
 		"projectID": "17",
 		"projectName": "Movie Review",
-		"linkToWeb": "https://chondan.github.io/MovieReviewFromSTUDIO-GHIBLI-API",
-		"linkToGithub": "https://github.com/Chondan/MovieReviewFromSTUDIO-GHIBLI-API"
+		"linkToWeb": "https://chondan.github.io/movie-review-studio-ghibli",
+		"linkToGithub": "https://github.com/Chondan/movie-review-studio-ghibli"
 	},
 	{
 		"projectID": "18",
 		"projectName": "Drum Kit",
-		"linkToWeb": "https://chondan.github.io/Drum-kit",
-		"linkToGithub": "https://github.com/Chondan/Drum-kit"
+		"linkToWeb": "https://chondan.github.io/drum-kit",
+		"linkToGithub": "https://github.com/Chondan/drum-kit"
 	},
 	{
 		"projectID": "19",
 		"projectName": "Falling Snow",
-		"linkToWeb": "https://chondan.github.io/Falling-snow",
-		"linkToGithub": "https://github.com/Chondan/Falling-snow"
+		"linkToWeb": "https://chondan.github.io/falling-snow",
+		"linkToGithub": "https://github.com/Chondan/falling-snow"
 	},
 	{
 		"projectID": "20",
 		"projectName": "Watercolor Painting",
-		"linkToWeb": "https://chondan.github.io/Watercolor-Painting",
-		"linkToGithub": "https://github.com/Chondan/Watercolor-Painting"
+		"linkToWeb": "https://chondan.github.io/watercolor-painting",
+		"linkToGithub": "https://github.com/Chondan/watercolor-painting"
 	},
 	{
 		"projectID": "21",
 		"projectName": "Eye Rolling",
-		"linkToWeb": "https://chondan.github.io/Eye-Rolling",
-		"linkToGithub": "https://github.com/Chondan/Eye-Rolling"
+		"linkToWeb": "https://chondan.github.io/eye-rolling",
+		"linkToGithub": "https://github.com/Chondan/eye-rolling"
 	},
 	{
 		"projectID": "22",
 		"projectName": "Auto Complete",
-		"linkToWeb": "https://chondan.github.io/Auto-Complete",
-		"linkToGithub": "https://github.com/Chondan/Auto-Complete"
+		"linkToWeb": "https://chondan.github.io/auto-complete",
+		"linkToGithub": "https://github.com/Chondan/auto-complete"
 	},
 	{
 		"projectID": "23",
 		"projectName": "Full Responsive Web",
-		"linkToWeb": "https://chondan.github.io/Fully-Responsive-Website",
-		"linkToGithub": "https://github.com/Chondan/Fully-Responsive-Website"
+		"linkToWeb": "https://chondan.github.io/fully-responsive-website",
+		"linkToGithub": "https://github.com/Chondan/fully-responsive-website"
 	},
 	{
 		"projectID": "24",
 		"projectName": "Pagination",
-		"linkToWeb": "https://chondan.github.io/Pagination-React",
-		"linkToGithub": "https://github.com/Chondan/Pagination-React"
+		"linkToWeb": "https://chondan.github.io/react-pagination",
+		"linkToGithub": "https://github.com/Chondan/react-pagination"
 	}
 ]
